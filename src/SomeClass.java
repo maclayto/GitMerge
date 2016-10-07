@@ -1,7 +1,7 @@
 
 public class SomeClass {
 	public void thoughtForTheDay() {
-		System.out.println("I couldn't repair your brakes, so I made your horn louder.");
+		System.out.println("On the other hand, you have different fingers.");
 	}
 
 	public static void main(String[] args) {
