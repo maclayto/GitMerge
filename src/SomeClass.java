@@ -1,12 +1,12 @@
 
 public class SomeClass {
-	public void fnOne() {
+	public void thoughtForTheDay() {
 		System.out.println("I couldn't repair your brakes, so I made your horn louder.");
 	}
 
 	public static void main(String[] args) {
 		SomeClass sc = new SomeClass();
-		sc.fnOne();
+		sc.thoughtForTheDay();
 
 	}
 
