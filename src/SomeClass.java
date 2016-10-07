@@ -6,7 +6,7 @@ public class SomeClass {
 	
 	public void upcomingEvents() {
 		System.out.println("Upcoming Events:");
-		System.out.println("Party at Jane's house tomorrow.");
+		System.out.println("Dinner at Katie's on Friday.");
 	}
 
 	public static void main(String[] args) {
